@@ -1,5 +1,6 @@
 # Input data
 input*.*
+ignore-me/
 
 # VS Code
 .vscode
